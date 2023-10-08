@@ -1,0 +1,3 @@
+(test
+ (name Ltests)
+ (libraries LambdaLib))
